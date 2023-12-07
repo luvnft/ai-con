@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox-viem": "^2.0.0",
+    "hardhat": "^2.19.2"
+  },
+  "dependencies": {
+    "@ensdomains/ens-contracts": "^0.0.22",
+    "dotenv": "^16.3.1",
+    "hardhat-deploy": "^0.11.44"
+  }
+}
